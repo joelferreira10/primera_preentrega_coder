@@ -1,0 +1,28 @@
+[
+    {
+        "title": "tv",
+        "description": "32 pulgadas",
+        "code": 5050,
+        "price": 2500,
+        "stock": 20,
+        "category": "electronic",
+        "thumbnails": [
+            "img.jpg"
+        ],
+        "id": 1,
+        "status": true
+    },
+    {
+        "title": "bicicleata",
+        "description": "3rodado 17",
+        "code": 50530,
+        "price": 25000,
+        "stock": 202,
+        "category": "deporte",
+        "thumbnails": [
+            "img.jpg"
+        ],
+        "id": 2,
+        "status": true
+    }
+]
